@@ -12,21 +12,24 @@ body {
     padding: 0 10px;
 }
 
+.text{ 
+text-align: center;}
+
 
 .nav-menu {
     background-color: white;
     box-shadow: 0px 0px 10px 0px #383636;
-    /* text-align: right; */
+    
 
 }
 
 .nav-menu-list li,
 a {
-    display: inline-flex;
+    display: inline-block;
     padding: 10px;
     text-decoration: none;
     color: black;
-
+    
 }
 
 .checkbox {
