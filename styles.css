@@ -14,14 +14,14 @@ body {
 
 .text{ 
 text-align: center;}
-
+/* TODO fix format */
 
 .nav-menu {
     background-color: white;
     box-shadow: 0px 0px 10px 0px #383636;
     
 
-}
+}/* TODO remove spaces */
 
 .nav-menu-list li,
 a {
@@ -30,7 +30,7 @@ a {
     text-decoration: none;
     color: black;
     
-}
+}/* TODO remove spaces */
 
 .checkbox {
     cursor: pointer;
@@ -47,7 +47,7 @@ a {
 
 
 
-
+/* TODO remove spaces */
 label:hover,
 a:hover {
     color: green;
@@ -55,18 +55,19 @@ a:hover {
 }
 
 
+/* TODO remove spaces */
 .nav-menu-list {
     display: block;
 }
 
 @media (max-width: 768px) {
 
-    .nav-menu-list {
+    .nav-menu-list {/* TODO remove spaces */
         display: none;
     }
 
 
-}
+}/* TODO remove spaces */
 
 
     @media (min-width: 768px) {
@@ -75,4 +76,4 @@ a:hover {
         color:white;
     }
 
-    }
+    }/* TODO fix format */
